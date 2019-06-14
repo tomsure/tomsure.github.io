@@ -1,6 +1,7 @@
 
 <template>
-  <div>网站更新中...敬请期待</div>
+  <div>网站更新中...敬请期待哦
+  </div>
 </template>
 
 <script>
